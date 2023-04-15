@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.user-info-container {
+  text-align: center;
+}
+.profile-img {
+  width: 70px;
+}
+.name {
+  color: #12022f;
+  font-size: 15px;
+  font-weight: 600;
+}
+.role {
+  color: #616e7c;
+  font-size: 14px;
+  font-weight: 400;
+}

@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.blog-item-container {
+  border-bottom: 1px solid #e7e5ea;
+}
+.heading-container {
+  display: flex;
+  justify-content: space-between;
+}
+.post-heading {
+  color: #12022f;
+  font-size: 17px;
+}
+.post-time {
+  color: #9aa5b1;
+  font-size: 15px;
+  font-weight: 400;
+}
+.post-description {
+  color: #9aa5b1;
+  font-size: 15px;
+  font-weight: 400;
+}
